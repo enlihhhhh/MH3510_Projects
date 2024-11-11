@@ -1,2 +1,3 @@
-# MH3510_Projects
-MH3510 Regression Analysis Assignments
+# MH3510 Regression Analysis 
+---
+This repository contains the individual assignments and group assignments completed during this course
